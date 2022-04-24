@@ -8,12 +8,12 @@ By analysing these factors, we seek to understand inflation from two points of v
 2. To explore if there are any other interesting correlations between other more indirect factors (e.g. CO2 levels, bitcoin prices), and to postulate if there are any deeper links between these factors and CPI. For example, finding a correlation between CO2 levels and CPI could show that there are relations between the use of fossil fuels on CPI (perhaps indicating demand pull inflation on transportation or manufacturing activities that produce CO2), while finding a correlation between bitcoin prices and CPI could show how bitcoin is becoming a "digital gold" in today's digital age.
 
 For a detailed walkthrough, please view the source code in order from:
-1. Data Extraction
-2. Data Visualisation
-3. Linear Regression
-4. K-Nearest Neighbours (KNN)
-5. ARIMA
-6. Long Short Term Memory Network (LSTM)
+1. [Data Extraction](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/1.%20Data%20Extraction/notebook.ipynb)
+2. [Data Visualisation](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/2.%20Data%20Visualisation/notebook.ipynb)
+3. [Linear Regression](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/3.%20Linear%20Regression/notebook.ipynb)
+4. [K-Nearest Neighbours (KNN)](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/4.%20K-Nearest%20Neighbours/notebook.ipynb)
+5. [ARIMA](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/5.ARIMA/notebook.ipynb)
+6. [Long Short Term Memory Network (LSTM)](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/6.%20Long%20Short%20Term%20Memory%20Network/notebook.ipynb)
 
 #### Problem Definition
 To address the two areas we set out to explore, there are some important questions which can help us better quantify and structure our analysis:
