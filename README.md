@@ -43,7 +43,8 @@ Apart from the data extraction, visualisation and regression we learnt in the mo
 5. US Unemplyment Rate dataset: https://www.kaggle.com/datasets/axeltorbenson/unemployment-data-19482021
 6. S&P 500 dataset: https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC&.tsrc=fin-srch
 7. Bitcoin Price dataset: https://finance.yahoo.com/quote/BTC-USD/history
-8. NASA CO2 dataset: https://climate.nasa.gov/vital-signs/carbon-dioxide/  
+8. NASA CO2 dataset: https://climate.nasa.gov/vital-signs/carbon-dioxide/
+9. Nominal Effective Exchange Rate dataset: https://fred.stlouisfed.org/series/NBUSBIS
 
 #### Individual Contributions
 Keane: Data Extraction, Data Visualisation, ARIMA  
