@@ -12,7 +12,7 @@ For a detailed walkthrough, please view the source code in order from:
 2. [Data Visualisation](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/2.%20Data%20Visualisation/notebook.ipynb)
 3. [Linear Regression](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/3.%20Linear%20Regression/notebook.ipynb)
 4. [K-Nearest Neighbours (KNN)](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/4.%20K-Nearest%20Neighbours/notebook.ipynb)
-5. [ARIMA](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/5.ARIMA/notebook.ipynb)
+5. [ARIMA](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/5.%20ARIMA/notebook.ipynb)
 6. [Long Short Term Memory Network (LSTM)](https://github.com/keanekwa/DSAI-Inflation-Prediction/blob/main/6.%20Long%20Short%20Term%20Memory%20Network/notebook.ipynb)
 
 #### Problem Definition
