@@ -26,6 +26,12 @@ To address the two areas we set out to explore, there are some important questio
 #### Conclusion
 Our 'cool' factors seem to have good correlations with CPI. While they might not be correlated for certain comparisons (e.g. for monthly and yearly percentage changes in basic correlation analysis), they can be useful especially as part of other multivariate models.
 
+Our best models to predict CPI:
+- ARIMA with 8 exogenous factors
+- Multivariate LSTM
+
+There is value in exploring factors not traditionally agreed upon in traditional economic literature for predicting inflation.
+
 #### What did we learn from this project?
 Apart from the data extraction, visualisation and regression we learnt in the module, we applied our learning of ARIMA, KNN and LSTM, as well as tied together our financial knowledge, throughout this project.
 
