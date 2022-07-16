@@ -1,7 +1,7 @@
 ### README
 
 #### About
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence). Our project seeks to look at how different global financial and non-financial factors (hereon referred to as "cool factors") drive inflation. For the purpose of our project, inflation shall be quantified by looking at the rise of the Consumer Price Index (CPI) in the USA over the years.
+Our project seeks to look at how different global financial and non-financial factors (hereon referred to as "cool factors") drive inflation. For the purpose of our project, inflation shall be quantified by looking at the rise of the Consumer Price Index (CPI) in the USA over the years.
 
 By analysing these factors, we seek to understand inflation from two points of view:
 1. To understand if factors traditionally theorised to have correlations with inflation in traditional economic literature (e.g. crude oil prices, Producer Price Index (PPI), gold prices) really do have their theorised correlations with CPI and to quantify the extent of their relationships.
