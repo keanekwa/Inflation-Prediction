@@ -1,4 +1,4 @@
-### README
+# Inflation Prediction
 
 #### About
 Our project seeks to look at how different global financial and non-financial factors (hereon referred to as "cool factors") drive inflation. For the purpose of our project, inflation shall be quantified by looking at the rise of the Consumer Price Index (CPI) in the USA over the years.
