@@ -47,6 +47,6 @@ Apart from the data extraction, visualisation and regression we learnt in the mo
 9. Nominal Effective Exchange Rate dataset: https://fred.stlouisfed.org/series/NBUSBIS
 
 #### Individual Contributions
-Keane: Data Extraction, Data Visualisation, ARIMA  
-Samuel: Data Extraction, Long Short Term Memory Neural Network  
-Lim Yi: Data Extraction, Linear Regression, K-Nearest Neighbors
+Keane (https://github.com/keanekwa): Data Extraction, Data Visualisation, ARIMA  
+Samuel (https://github.com/Sampie314): Data Extraction, Long Short Term Memory Neural Network  
+Lim Yi (https://github.com/iymil): Data Extraction, Linear Regression, K-Nearest Neighbors
